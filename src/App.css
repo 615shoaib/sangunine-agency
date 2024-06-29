@@ -1335,6 +1335,11 @@ form {
     }
 
 
+    @media (max-width:360px){
+      .navbar-menu-items{
+        margin: 0 auto;
+      }
+    }
     @media (max-width: 200px) {
 
       .logo-container {
